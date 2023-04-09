@@ -14,14 +14,10 @@ This project is a simple React app for rolling two dice and keeping track of the
 
 ![Updated UI](/screenshot/Ruels.png)
 ![Updated UI](/screenshot/scores.png)
-![Updated UI](/screenshot/playing.png)
 
-In the screenshot above, you can see the updated User Interface with the improved layout, `styled-components`, and the "Hold" button.
-
-![Gameplay](your-screenshot-file-name-2.png)
 
 The screenshot above shows the app during gameplay, demonstrating the dice roll and score tracking features.
-
+![Updated UI](/screenshot/playing.png)
 ## Code Changes
 
 Here are some code snippets showing the changes and additions made to the project:
