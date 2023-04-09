@@ -1,4 +1,4 @@
-# React--Dice-Roll
+# React Dice-Roll
 We are going to create a fun dice game. <br/> <br/>
 ![image](https://user-images.githubusercontent.com/127497841/230445501-f498cdb3-e648-4b69-973e-fdc207857497.png)
 
